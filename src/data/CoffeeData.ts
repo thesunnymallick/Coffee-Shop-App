@@ -1,4 +1,4 @@
-const CoffeeData = [
+ export const CoffeeData = [
     {
       id: 'C1',
       name: 'Americano',
